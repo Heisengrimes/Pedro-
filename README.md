@@ -1,0 +1,2 @@
+# Pedro-
+Calculadora de Cobertura 
